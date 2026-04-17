@@ -89,4 +89,4 @@ A few good next steps for contributors:
 Before making this public, double-check `addoninfo.txt` and change the author field if you want a different public name shown in-game.
 
 ## License
-[**MIT**](#LICENSE).
+[**MIT**](https://github.com/BrandonAustin01/solo_mod-menu/blob/main/LICENSE).
