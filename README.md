@@ -89,4 +89,4 @@ A few good next steps for contributors:
 Before making this public, double-check `addoninfo.txt` and change the author field if you want a different public name shown in-game.
 
 ## License
-**MIT**.
+[**MIT**](#LICENSE).
