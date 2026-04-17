@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+  "addonSteamAppID" "550"
+  "addontitle" "Solo Mod Menu"
+  "addonContent_Script" "1"
+  "addonauthor" "BrandonAustin01"
+  "addonDescription" "In-game HUD menu for solo/local play."
+}

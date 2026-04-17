@@ -1,0 +1,50 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.code-workspace
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+
+# Logs / temp
+*.log
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+*.rej
+
+# Archives / packaged releases
+*.zip
+*.7z
+*.rar
+*.vpk
+
+# Local testing / personal files
+/local/
+/test/
+/testing/
+/dev/
+
+# Game-specific scratch files
+autoexec.cfg
+cfg/
+
+# Optional: ignore screenshots / capture exports
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.mp4
