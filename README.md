@@ -2,6 +2,8 @@
 
 A lightweight **Left 4 Dead 2 VScript addon** that adds an in-game HUD menu for **solo or local play**.
 
+I originally made this to see how far I could push a small L4D2 scripting project. Unfortunatley I do not play the game much anymore, so I may or may not come back and continue working on it. Because of that, I am putting it here for anyone who wants to use it, improve it, or build on top of it.
+
 This project is meant to be a clean starting point for anyone who wants to use it as-is, improve it, or fork it into a bigger single-player mod menu.
 
 ## What it does
